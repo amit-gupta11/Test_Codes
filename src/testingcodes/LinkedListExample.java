@@ -19,7 +19,6 @@ import java.util.*;
 public class LinkedListExample {
 
    public static void main(String args[]) {
-      /*LinkedList declaration*/
       LinkedList<String> linkedlist=new LinkedList<String>();
       linkedlist.add("Apple");
       linkedlist.add("Orange");
